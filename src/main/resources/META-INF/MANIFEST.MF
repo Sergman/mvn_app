@@ -1,4 +1,3 @@
 Manifest-Version: 1.0
 Built-By: s_linux
 Main-Class: com.serg.app.App
-
